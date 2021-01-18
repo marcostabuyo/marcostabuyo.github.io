@@ -38,7 +38,6 @@ Score: 9.14/10</h4>
 </ul>
 
 <h3>Lenguages & Frameworks</h3>
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 <ul>
   <li>HTML</li>
  <li>CSS</li>
