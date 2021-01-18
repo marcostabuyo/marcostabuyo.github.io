@@ -15,11 +15,11 @@ Score: 9.14/10</h4>
 <h3>Courses</h3>
 <h4><a href="https://www.educacionit.com/">Education IT</a> - Advanced Web Programmer:</h4>
 <ul>
-  <li>Web programming in PHP and MySQL</li>
-  <li>PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning</li>
+  <li>CSS and DIVs Layout Web positioning</li>
   <li>AJAX: Asynchronous JavaScript and XML</li>
+  <li>Web programming in PHP and MySQL</li>
+  <li>PHP - Object Oriented Programming</li>
   <li>Java Standard Programming, J2SE 6.0 (IT Education)</li>
-  <li>Full Stack JavaScript Developer en Español - Udemy (in progress)</li>
 </ul>
 <h4><a href="https://www.udemy.com/course/fullstack-js-en-espanol/">Udemy</a>:</h4>
 <ul>
