@@ -39,13 +39,14 @@ Score: 9.14/10</h4>
 
 <h3>Lenguages & Frameworks</h3>
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [HTML](https://getbootstrap.com)
-* [CSS](https://getbootstrap.com)
-* [SASS](https://sass-lang.com/)
-* [JS]()
-* [PHP](https://www.php.net/)
-* [Bootstrap](https://getbootstrap.com)
-
+<ul>
+  <li>HTML</li>
+ <li>CSS</li>
+ <li>SASS</li>
+ <li>JS</li>
+ <li>PHP</li>
+ <li>Bootstrap</li>
+</ul>
 
 <h3 align="center">Web's</h3>
 <p align="center">
