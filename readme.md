@@ -25,7 +25,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <h3 align="center">Works</h3>
-<p>
+<p align="center">
   <a href="https://">
     <img src="images/congreso.png" alt="Logo" width="150" height="150">
   </a>
