@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>Tu forma de viajar</title>
+  </head>
+  <body>
+    <header>
+      <nav class="nav">
+        
+        <a href="./index.html">
+          <img src="./images/logo_nav.png" class="icon" />
+        </a>
+        <div class="hide-for-mobile">
+          <a href="#bottom" class="button">Contáctenos</a>
+        </div>
+        <input type="checkbox" id="menu" class="menu__checkbox">
+          <ul class="menu">
+            <li class="menu__item">
+              <a href="./index.html">Home</a>
+            </li>
+            <li class="menu__item">
+              <a href="#bottom">Contáctenos</a>
+            </li>
+          </ul>
+        <label for="menu" class="header__toggle hide-for-desktop">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+        
+      </nav>
+
+    </header>
+    <section class="section__iframe">
+      <!-- iFrame de Interación de Europamundo Vacaciones -->
+
+      <iframe
+        id="frame_cmp"
+        src="https://www.europamundo.com/embed_v2/multibuscador.aspx?opeIP=42&ageKEY=23139"
+        frameborder="0"
+        scrolling="auto"
+      ></iframe>
+
+      <!-- fin iframe -->
+    </section>
+        <footer id="bottom" class="bottom">
+      <div class="bottom__gradient"></div>
+      <div class="container bottom__grid">
+        <div class="bottom__icon">
+          <a href="http://fb.me/tuformadeviajar/">
+            <img src="./images/icons8-facebook.svg" class="icon" />
+            <p>
+              @tuformadeviajar
+            </p></a
+          >
+        </div>
+        <div class="bottom__icon">
+          <a href="mailto:lucia.ramirez@tuformadeviajar.com.ar">
+            <img src="./images/mail.svg" class="icon" />
+            <p>
+              lucia.ramirez@tuformadeviajar.com.ar
+            </p></a
+          >
+        </div>
+        <div class="bottom__icon">
+          <a href="tel:1153228490"><img src="./images/device-mobile.svg" class="icon" />
+          <p>
+            011-5322-8490
+          </p></a
+          >
+        </div>
+        <div class="bottom__contacto">
+          <form
+            id="MyForm"
+            name="MyForm"
+            action="http://www.alsolnet.com/tools/mailmen.asp"
+            method="post"
+          >
+            <input
+              type="hidden"
+              value="http://www.tuformadeviajar.com.ar/"
+              name="redirect"
+            />
+            <input
+              type="hidden"
+              value="lucia.ramirez@tuformadeviajar.com.ar"
+              name="recipient"
+            />
+            <input
+              type="hidden"
+              value="Mensaje seccion Contactenos"
+              name="subject"
+            />
+            <p>Contáctenos</p>
+              <input
+                placeholder="Ingrese su nombre"
+                name="Nombre"
+                class="box"
+              />
+
+              <input placeholder="Ingrese su E-mail" name="Email" class="box" />
+              <input
+                placeholder="Escriba su consulta"
+                name="3_Mensaje"
+                id="textarea"
+              ></input
+              >
+              <button class="button__enviar" type="submit" value="Enviar">
+                Enviar 
+              </button>
+          </form>
+        </div>
+      </div>
+      <a class="bottom__up" alt="Ir al inicio" href="#top"><img src="./images/arrow-up.svg" alt="Ir al inicio"></a>    
+    </footer>
+  </body>
+</html>
