@@ -25,6 +25,6 @@ This section should list any major frameworks that you built your project using.
 
 <p>
   <a href="https://">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/congreso.png" alt="Logo" width="200" height="200">
   </a>
 </p>
