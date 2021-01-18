@@ -17,6 +17,8 @@
     <a href="https://marcostabuyo.github.io/#webs">Web's</a>
         ·
     <a href="https://marcostabuyo.github.io/#game">Game</a>
+      ·
+    <a href="https://marcostabuyo.github.io/#contact">Contact</a>
   </p>
 </p>
 <h3>Studies</h3>
@@ -39,7 +41,7 @@ Score: 9.14/10</h4>
 
 <h3>Lenguages & Frameworks</h3>
 <ul>
-  <li>HTML</li>
+ <li>HTML</li>
  <li>CSS</li>
  <li>SASS</li>
  <li>JS</li>
@@ -73,3 +75,8 @@ Score: 9.14/10</h4>
   </a>
 </p>
 
+<h3>Contact</h3>
+<ul>
+  <li>Mail: marcos.tabuyo@gmail.com</li>
+  <li>Twitter: @marcostabuyo</li>
+</ul>
