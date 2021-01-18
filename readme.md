@@ -7,6 +7,17 @@
     Hi i'm a frontend learner although i also like to do backend.
     <br />
   </p>
+  <p align="center">
+    <a href="https://marcostabuyo.github.io/#studies">Studies</a>
+    ·
+    <a href="https://marcostabuyo.github.io/#courses">Courses</a>
+    ·
+    <a href="https://marcostabuyo.github.io/#lenguages">Lenguages & frameworks</a>
+      ·
+    <a href="https://marcostabuyo.github.io/#webs">Web's</a>
+        ·
+    <a href="https://marcostabuyo.github.io/#game">Game</a>
+  </p>
 </p>
 <h3>Studies</h3>
 <h4>(2015- 2019) <a href="https://uap.edu.ar/carrera/teologia/">River Plate University - Bachelor of Theology</a></br>
@@ -26,8 +37,7 @@ Score: 9.14/10</h4>
   <li>Full Stack JavaScript Developer en Español (in progress)</li>
 </ul>
 
-### Built With
-
+<h3>Lenguages & Frameworks</h3>
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [HTML](https://getbootstrap.com)
 * [CSS](https://getbootstrap.com)
