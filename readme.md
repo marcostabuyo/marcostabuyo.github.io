@@ -9,7 +9,8 @@
   </p>
 </p>
 <h3>Courses</h3>
-<ul>Advanced Web Programmer - <a href="https://www.educacionit.com/">Education IT</a> :
+<h4>Advanced Web Programmer - <a href="https://www.educacionit.com/">Education IT</a>:</h4>
+<ul>
   <li>Web programming in PHP and MySQL</li>
   <li>PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning</li>
   <li>AJAX: Asynchronous JavaScript and XML</li>
