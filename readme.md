@@ -4,7 +4,7 @@
   <h3 align="center">Marcos Tabuyo</h3>
 
   <p align="center">
-    hi i'm a frontend learner although i also like to do backend.
+    Hi i'm a frontend learner although i also like to do backend.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -19,9 +19,12 @@
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [HTML](https://getbootstrap.com)
+* [CSS](https://getbootstrap.com)
+* [SASS](https://sass-lang.com/)
+* [JS]()
+* [PHP](https://www.php.net/)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 
 <h3 align="center">Works</h3>
