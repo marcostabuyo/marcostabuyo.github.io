@@ -27,4 +27,16 @@ This section should list any major frameworks that you built your project using.
   <a href="https://">
     <img src="images/congreso.png" alt="Logo" width="200" height="200">
   </a>
+  <a href="https://">
+    <img src="images/campori.png" alt="Logo" width="200" height="200">
+  </a>
+  <a href="https://">
+    <img src="images/unmilagro.png" alt="Logo" width="200" height="200">
+  </a>
+  <a href="https://">
+    <img src="images/tuforma.png" alt="Logo" width="200" height="200">
+  </a>
+  <a href="https://">
+    <img src="images/unidos.png" alt="Logo" width="200" height="200">
+  </a>
 </p>
