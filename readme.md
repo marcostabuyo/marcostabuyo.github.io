@@ -17,10 +17,11 @@
   <li>Java Standard Programming, J2SE 6.0 (IT Education)</li>
   <li>Full Stack JavaScript Developer en Español - Udemy (in progress)</li>
 </ul>
-<h4><a href="https://www.udemy.com/course/fullstack-js-en-espanol/">Udemy/a>:</h4>
+<h4><a href="https://www.udemy.com/course/fullstack-js-en-espanol/">Udemy</a>:</h4>
 <ul>
   <li>Full Stack JavaScript Developer en Español (in progress)</li>
 </ul>
+
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -34,13 +35,13 @@ This section should list any major frameworks that you built your project using.
 
 <h3 align="center">Works</h3>
 <p align="center">
-  <a href="https://">
+  <a href="https://www.congresojaabo.com.ar">
     <img src="images/congreso.png" alt="Logo" width="150" height="150">
   </a>
-  <a href="https://">
+  <a href="https://www.camporionlineabo.com.ar">
     <img src="images/campori.png" alt="Logo" width="150" height="150">
   </a>
-  <a href="https://">
+  <a href="https://www.unmilagroenmi.com.ar">
     <img src="images/unmilagro.png" alt="Logo" width="150" height="150">
   </a>
   <a href="https://">
