@@ -12,7 +12,7 @@
     ·
     <a href="https://marcostabuyo.github.io/#courses">Courses</a>
     ·
-    <a href="https://marcostabuyo.github.io/#lenguages">Lenguages & frameworks</a>
+    <a href="https://marcostabuyo.github.io/#lenguages--frameworks">Lenguages & frameworks</a>
       ·
     <a href="https://marcostabuyo.github.io/#webs">Web's</a>
         ·
@@ -20,7 +20,7 @@
   </p>
 </p>
 <h3>Studies</h3>
-<h4>(2015- 2019) <a href="https://uap.edu.ar/carrera/teologia/">River Plate University - Bachelor of Theology</a></br>
+<h4>(2015- 2019) <a href="https://uap.edu.ar/carrera/teologia/">River Plate University - Bachelor of Theology</a><br />
 Score: 9.14/10</h4>
 
 <h3>Courses</h3>
