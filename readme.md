@@ -23,20 +23,22 @@ This section should list any major frameworks that you built your project using.
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
+
+<h3 align="center">Works</h3>
 <p>
   <a href="https://">
-    <img src="images/congreso.png" alt="Logo" width="200" height="200">
+    <img src="images/congreso.png" alt="Logo" width="150" height="150">
   </a>
   <a href="https://">
-    <img src="images/campori.png" alt="Logo" width="200" height="200">
+    <img src="images/campori.png" alt="Logo" width="150" height="150">
   </a>
   <a href="https://">
-    <img src="images/unmilagro.png" alt="Logo" width="200" height="200">
+    <img src="images/unmilagro.png" alt="Logo" width="150" height="150">
   </a>
   <a href="https://">
-    <img src="images/tuforma.png" alt="Logo" width="200" height="200">
+    <img src="images/unidos.png" alt="Logo" width="150" height="150">
   </a>
   <a href="https://">
-    <img src="images/unidos.png" alt="Logo" width="200" height="200">
+    <img src="images/tuforma.png" alt="Logo" width="150" height="150">
   </a>
 </p>
