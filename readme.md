@@ -10,7 +10,7 @@
     ·
     <a href="https://marcostabuyo.github.io/#courses">Courses</a>
     ·
-    <a href="https://marcostabuyo.github.io/#lenguages--frameworks">Lenguages & frameworks</a>
+    <a href="https://marcostabuyo.github.io/#skills">Skills</a>
       ·
     <a href="https://marcostabuyo.github.io/#webs">Web's</a>
         ·
