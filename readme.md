@@ -1,3 +1,4 @@
+<div style="background:#fff">
 <p align="center">
   <h3 align="center">Marcos Tabuyo</h3>
 
@@ -83,3 +84,4 @@ Score: 9.14/10</h4>
   <li>Mail: <a href="mailto:marcos.tabuyo@gmail.com">marcos.tabuyo@gmail.com</a></li>
   <li>Twitter: <a href="https://twitter.com/marcostabuyo">@marcostabuyo</a></li>
 </ul>
+</div>
