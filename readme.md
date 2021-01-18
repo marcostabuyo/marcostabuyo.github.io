@@ -22,3 +22,9 @@ This section should list any major frameworks that you built your project using.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
+
+<p>
+  <a href="https://">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
+  </a>
+</p>
