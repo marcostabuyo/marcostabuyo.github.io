@@ -6,16 +6,15 @@
   <p align="center">
     Hi i'm a frontend learner although i also like to do backend.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
+<h3>Courses</h3>
+* Advanced Web Programmer [Education IT] (https://www.educacionit.com/):
+* Web programming in PHP and MySQL
+* PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning
+* AJAX: Asynchronous JavaScript and XML
+* Java Standard Programming, J2SE 6.0 (IT Education)
+
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
