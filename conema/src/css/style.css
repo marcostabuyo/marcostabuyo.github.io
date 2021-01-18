@@ -1,0 +1,201 @@
+/*  COLORES
+    degrade: amarillo ffd10075 rojo f4020075 azul 0e0ec675; 
+    menú seleccionado: aa2117
+    */
+:root {
+  --amarillo-bg: #ffd10075;
+  --rojo-bg: #f4020075;
+  --azul-bg: #0e0ec675;
+  --bordo-menu-selec: #aa2117;
+  --rojo-menu: #d22e1c;
+  --gris-texto: #2d2e38;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #649173; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom left,
+    var(--azul-bg),
+    var(--rojo-bg),
+    var(--amarillo-bg)
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom left,
+    var(--azul-bg),
+    var(--rojo-bg),
+    var(--amarillo-bg)
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: Arial, Helvetica, sans-serif;
+}
+html {
+  background-image: repeating-linear-gradient(
+      120deg,
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6) 1px,
+      transparent 1px,
+      transparent 30px,
+      rgba(255, 255, 255, 0.3) 30px,
+      rgba(255, 255, 255, 0.3) 31px,
+      transparent 31px,
+      transparent 60px
+    ),
+    repeating-linear-gradient(
+      60deg,
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.6) 1px,
+      transparent 1px,
+      transparent 30px,
+      rgba(255, 255, 255, 0.3) 30px,
+      rgba(255, 255, 255, 0.3) 31px,
+      transparent 31px,
+      transparent 60px
+    ),
+    repeating-linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3) 1px,
+      transparent 1px,
+      transparent 30px
+    );
+  background-size: 70px 120px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 800;
+}
+h1 {
+  font-size: 76px;
+  font-weight: 800;
+}
+header {
+  background-color: var(--rojo-menu);
+  height: 137px;
+  width: 100%;
+  color: white;
+  position: relative;
+}
+.logo {
+  width: 320px;
+  margin-left: 80px;
+  position: absolute;
+  top: 20px;
+  animation: logos 10s;
+}
+@keyframes logos {
+  0% {
+    transform: scale(0.5);
+    transition: all 0.3s ease-in-out 0s;
+  }
+  100% {
+    transform: scale(1);
+    transition: all 0.3s ease-in-out 0s;
+  }
+}
+.eng-top {
+  width: 250px;
+  position: absolute;
+  right: 45px;
+}
+.menu {
+  position: absolute;
+  bottom: 0px;
+  right: 280px;
+  font-size: 0.75rem;
+}
+.menu ul {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  list-style: none;
+}
+.menu li {
+  margin-right: 15px;
+  padding: 5px 15px;
+}
+.menu li:hover {
+  clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+  background-color: var(--bordo-menu-selec);
+}
+.seleccionado {
+  clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+  background-color: var(--bordo-menu-selec);
+}
+.s1 {
+  display: grid;
+  grid-template-columns: 410px 600px;
+  justify-content: center;
+  margin-top: 52px;
+  color: var(--gris-texto);
+}
+.s1 h2 {
+  margin-bottom: -17px;
+}
+.s1-text {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.s1 iframe {
+  padding: 15px;
+  background-color: var(--rojo-menu);
+}
+.s1-img img {
+  margin-right: 35px;
+  animation: stretch 10s;
+}
+@keyframes stretch {
+  0% {
+    transform: scale(0.1);
+    transition: all 0.3s ease-in-out 0s;
+  }
+  50% {
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out 0s;
+  }
+  100% {
+    transform: scale(1);
+    transition: all 0.3s ease-in-out 0s;
+  }
+}
+.s2 {
+  color: var(--gris-texto);
+  width: 1221px;
+  margin: 120px auto;
+}
+
+.s2 h2 {
+  background-color: var(--rojo-menu);
+  clip-path: polygon(0% 0%, 75% 0%, 100% 100%, 0% 100%);
+  width: 460px;
+  padding: 15px 10px 0 10px;
+  margin-bottom: -20px;
+}
+.s2-text {
+  color: white;
+  align-self: center;
+  margin-left: 25px;
+}
+.s2-serv {
+  display: flex;
+  background-color: var(--rojo-menu);
+  padding: 10px;
+}
+.s2 img {
+  padding: 15px;
+  background-color: var(--rojo-menu);
+}
+/*
+.seleccionado::before {
+  content: "";
+  background-color: var(--bordo-menu-selec);
+  left: -20px;
+  border-top: 10px solid transparent;
+  border-right: 10px solid red;
+  border-bottom: 10px solid red;
+  border-left: 10px solid transparent;
+}
+*/
