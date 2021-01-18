@@ -37,15 +37,20 @@ Score: 9.14/10</h4>
   <li>Full Stack JavaScript Developer en Español (in progress)</li>
 </ul>
 
-<h3>Lenguages & Frameworks</h3>
+<h3>Skills</h3>
 <ul>
- <li>HTML</li>
- <li>CSS</li>
- <li>SASS</li>
- <li>JS</li>
- <li>PHP</li>
- <li>Bootstrap</li>
+ <li>HTML - 95%</li>
+ <li>CSS - 95%</li>
+ <li>SASS  - 50%</li>
+ <li>BOOTSTRAP - 50%</li>
+ <li>JS  - 40%</li>
+ <li>PHP - 40%</li>
+ <li>MYSQL - 50%</li>
+ <li>GIMP - 70%</li>
+ <li>INKSCAPE - 80%</li>
+ <li>BLENDER - 50%</li>
 </ul>
+
 
 <h3 align="center">Web's</h3>
 <p align="center">
