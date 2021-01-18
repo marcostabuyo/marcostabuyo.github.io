@@ -9,12 +9,13 @@
   </p>
 </p>
 <h3>Courses</h3>
-* Advanced Web Programmer [Education IT] (https://www.educacionit.com/):
-* Web programming in PHP and MySQL
+<ul>Advanced Web Programmer 
+[Education IT] (https://www.educacionit.com/):
+<li>Web programming in PHP and MySQL</li>
 * PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning
 * AJAX: Asynchronous JavaScript and XML
 * Java Standard Programming, J2SE 6.0 (IT Education)
-
+</ul>
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
