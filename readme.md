@@ -77,6 +77,6 @@ Score: 9.14/10</h4>
 
 <h3>Contact</h3>
 <ul>
-  <li>Mail: marcos.tabuyo@gmail.com</li>
-  <li>Twitter: @marcostabuyo</li>
+  <li>Mail: <a href="mailto:marcos.tabuyo@gmail.com">marcos.tabuyo@gmail.com</a></li>
+  <li>Twitter: <a href="https://twitter.com/marcostabuyo">@marcostabuyo</a></li>
 </ul>
