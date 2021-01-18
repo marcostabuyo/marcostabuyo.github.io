@@ -37,7 +37,7 @@ This section should list any major frameworks that you built your project using.
 * [Bootstrap](https://getbootstrap.com)
 
 
-<h3 align="center">Works</h3>
+<h3 align="center">Web's</h3>
 <p align="center">
   <a href="https://www.congresojaabo.com.ar">
     <img src="images/congreso.png" alt="Logo" width="150" height="150">
