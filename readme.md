@@ -8,6 +8,10 @@
     <br />
   </p>
 </p>
+<h3>Studies</h3>
+<h4>(2015- 2019) River Plate University - Bachelor of Theology</br>
+Score: 9.14/10</h4>
+
 <h3>Courses</h3>
 <h4><a href="https://www.educacionit.com/">Education IT</a> - Advanced Web Programmer:</h4>
 <ul>
