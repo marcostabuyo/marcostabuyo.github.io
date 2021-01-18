@@ -11,10 +11,11 @@
 <h3>Courses</h3>
 <ul>Advanced Web Programmer 
 [Education IT] (https://www.educacionit.com/):
-<li>Web programming in PHP and MySQL</li>
-* PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning
-* AJAX: Asynchronous JavaScript and XML
-* Java Standard Programming, J2SE 6.0 (IT Education)
+  <li>Web programming in PHP and MySQL</li>
+  <li>PHP - Object Oriented Programming · CSS and DIVs Layout Web positioning</li>
+  <li>AJAX: Asynchronous JavaScript and XML</li>
+  <li>Java Standard Programming, J2SE 6.0 (IT Education)</li>
+  <li>Full Stack JavaScript Developer en Español - Udemy (in progress)</li>
 </ul>
 ### Built With
 
