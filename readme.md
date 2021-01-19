@@ -73,7 +73,7 @@ Score: 9.14/10</h4>
 
 <h3 align="center">Game</h3>
 <p align="center">
-  <a href="https://www.camporionlineabo.com.ar/burzaco_juego.php">
+  <a href="https://marcostabuyo.github.io/burzaco.html">
       <img src="images/burzaco.png" alt="Logo" width="150" height="150">
   </a>
 </p>
